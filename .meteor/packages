@@ -9,3 +9,7 @@ autopublish
 insecure
 http
 mdg:camera
+jparker:crypto-base64
+base64
+jparker:crypto-core
+jparker:crypto-hmac
